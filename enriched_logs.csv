@@ -1,0 +1,6 @@
+source_ip,other_data,vt_analysis_stats,otx_pulse_count
+8.8.8.8,Google Public DNS,"{'malicious': 0, 'suspicious': 0, 'undetected': 31, 'harmless': 63, 'timeout': 0}",0
+192.168.1.1,Internal Network,"{'malicious': 0, 'suspicious': 0, 'undetected': 31, 'harmless': 63, 'timeout': 0}",{'error': 400}
+1.1.1.1,Cloudflare DNS,"{'malicious': 1, 'suspicious': 1, 'undetected': 29, 'harmless': 63, 'timeout': 0}",0
+256.256.256.256,Invalid IP,{'error': 400},{'error': 400}
+123.456.78.90,Invalid IP,{'error': 400},{'error': 400}

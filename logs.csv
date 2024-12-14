@@ -1,0 +1,7 @@
+source_ip,other_data
+8.8.8.8,Google Public DNS
+192.168.1.1,Internal Network
+1.1.1.1,Cloudflare DNS
+256.256.256.256,Invalid IP
+123.456.78.90,Invalid IP
+
